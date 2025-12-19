@@ -30,6 +30,10 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [web3入门](https://developer.oracle.com/zh/learn/technical-articles/web3-guide)
 
+[快速角色化进入 Web3](https://paragraph.com/@0xkookoo/web3)
+
+[零基础如何入门](https://www.panewslab.com/zh/articles/e5yoxysq)
+
 
 ## 2.web3.0应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
@@ -71,6 +75,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 
 [稳定币](https://www.brookings.edu/articles/what-are-stablecoins-and-how-are-they-regulated/)
+
+[稳定币](https://www.youtube.com/watch?v=ZPaY3kdhVTw)
+
 
 
 ## 6.Mirror相关资源
@@ -205,6 +212,7 @@ web3研究社
 
 [github区块链中文课程](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
 
+[区块链之新b站](https://www.bilibili.com/bangumi/play/ss28925?spm_id_from=333.337.0.0)
 
 
 ## 12.相关书籍
