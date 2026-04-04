@@ -304,7 +304,8 @@ web3研究社
 
 [2023 a16z web3报告](https://api.a16zcrypto.com/wp-content/uploads/2023/11/State-of-Crypto-2023_Policy-Spotlight.pdf)
 
-[币安 2025 年终报告：信任、流动性与 Web3 探索](https://www.binance.com/zh-CN/square/post/34810833703817)
+[2025年中国Web3应用行业市场研究报告](https://pdf.dfcfw.com/pdf/H3_AP202511201784724101_1.pdf?1763627231000.pdf)
+
 
 ## 16.例子
 
