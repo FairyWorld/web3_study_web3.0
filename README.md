@@ -96,41 +96,43 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 ## 7.X(Twitter) KOL
 
-[https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
+[https://x.com/TheWeb3Project](https://x.com/TheWeb3Project)
 
-[https://twitter.com/IvanOnTech](https://twitter.com/IvanOnTech)
+[https://x.com/IvanOnTech](https://x.com/IvanOnTech)
 
-[https://twitter.com/BTW0205](https://twitter.com/BTW0205)
+[https://x.com/BTW0205](https://x.com/BTW0205)
 
-[https://twitter.com/Web3foundation](https://twitter.com/Web3foundation)
+[https://x.com/Web3foundation](https://x.com/Web3foundation)
 
-[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)
+[https://x.com/VitalikButerin](https://x.com/VitalikButerin)
 
-[https://twitter.com/ethereum](https://twitter.com/ethereum)
+[https://x.com/ethereum](https://x.com/ethereum)
 
-[https://twitter.com/web3university](https://twitter.com/web3university)
+[https://x.com/web3university](https://x.com/web3university)
 
-[https://twitter.com/web3isgreat](https://twitter.com/web3isgreat)
+[https://x.com/web3isgreat](https://x.com/web3isgreat)
 
 [https://mirror.xyz/jiushi.eth](https://mirror.xyz/jiushi.eth)
 
 [https://mirror.xyz/ericyhu.eth](https://mirror.xyz/ericyhu.eth)
 
-[https://twitter.com/Web3_Shot](https://twitter.com/Web3_Shot)
+[https://x.com/Web3_Shot](https://x.com/Web3_Shot)
 
-[https://twitter.com/JRNYcrypto](https://twitter.com/JRNYcrypto)
+[https://x.com/JRNYcrypto](https://x.com/JRNYcrypto)
 
-[https://twitter.com/wangfeng_0128](https://twitter.com/wangfeng_0128)
+[https://x.com/wangfeng_0128](https://x.com/wangfeng_0128)
 
-[https://twitter.com/crypto_birb](https://twitter.com/crypto_birb)
+[https://x.com/crypto_birb](https://x.com/crypto_birb)
 
-[https://twitter.com/52kskew](https://twitter.com/52kskew)
+[https://x.com/52kskew](https://x.com/52kskew)
 
-[https://twitter.com/TheCryptoDog](https://twitter.com/TheCryptoDog)
+[https://x.com/TheCryptoDog](https://x.com/TheCryptoDog)
 
-[https://twitter.com/Pentosh1](https://twitter.com/Pentosh1)
+[https://x.com/Pentosh1](https://x.com/Pentosh1)
 
-[https://twitter.com/saylor](https://twitter.com/saylor)
+[https://x.com/saylor](https://x.com/saylor)
+
+[https://x.com/PepeBoost888](https://x.com/PepeBoost888)
 
 [其他人整理的KOL列表](https://panony.notion.site/1ca34107490b436e8c02670828457e44?v=14e07aca9cc64f46831fbe0805da3bd2)
 
