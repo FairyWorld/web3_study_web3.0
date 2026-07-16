@@ -413,5 +413,10 @@ web3研究社
 
 [What Are Bitcoin Layer-2s and How Do They Work?](https://crypto.com/university/what-are-bitcoin-layer-2s)
 
+## 23节点推荐
+
+[节点](https://www.xmrth.lol/auth/register?code=f04f)
+
+
 
 
